@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ulricihuberidej00unkngoog_0686.png"; bbox 0 0 3947 4788; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 880 3699 3635 3990">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 880 3699 3635 3990">
+     <span class='ocr_line' id='line_1_1' title="bbox 880 3699 3635 3990; baseline 0 798"><span class='ocrx_word' id='word_1_1' title='bbox 880 3699 3635 3990; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 965 3932 3445 4163">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 965 3932 3445 4157">
+     <span class='ocr_line' id='line_1_2' title="bbox 1009 3932 3445 4085; baseline -0.007 -37"><span class='ocrx_word' id='word_1_2' title='bbox 1009 3955 1024 3972; x_wconf 56' lang='lat'><em>⁶</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1077 3945 1224 4062; x_wconf 49' lang='grc' dir='ltr'><strong><em>ιοηεῃ</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1262 3932 1490 4050; x_wconf 48' lang='lat' dir='ltr'><strong><em>aleina</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1430 3996 1771 4085; x_wconf 70' lang='lat' dir='ltr'><em>capieepm·</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1887 3977 2382 4064; x_wconf 58' lang='lat' dir='ltr'><strong><em>edetomnseci,</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2399 3939 3445 4064; x_wconf 37' lang='lat' dir='ltr'><strong><em>&amp;Marad-amr&amp;</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 965 4030 3270 4163; baseline -0.003 -28"><span class='ocrx_word' id='word_1_8' title='bbox 965 4030 1976 4162; x_wconf 61' lang='lat' dir='ltr'><strong><em>oexpposfiolehoemsupae</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2010 4063 2385 4153; x_wconf 64' lang='lat' dir='ltr'><strong><em>negmfieit</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2413 4058 3100 4181; x_wconf 45' lang='grc' dir='ltr'><strong><em>ιδῶςριῶδὶρβξῑὶδβι</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 3173 4071 3270 4157; x_wconf 25' lang='grc'><strong><em>.’”</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

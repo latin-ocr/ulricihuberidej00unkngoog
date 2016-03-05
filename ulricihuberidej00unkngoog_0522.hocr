@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ulricihuberidej00unkngoog_0522.png"; bbox 0 0 3947 4788; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 809 313 3568 484">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 809 313 3568 484">
+     <span class='ocr_line' id='line_1_1' title="bbox 809 313 3568 484; baseline 0.007 -82"><span class='ocrx_word' id='word_1_1' title='bbox 809 326 975 435; x_wconf 55' lang='grc' dir='ltr'><strong>με</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1152 313 1377 415; x_wconf 68' lang='lat' dir='ltr'><strong>Lm..</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1413 318 1498 448; x_wconf 63' lang='grc' dir='ltr'><strong>ιι</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1554 313 3266 482; x_wconf 50' lang='lat' dir='ltr'><strong>nnm‘m‘mtmyfesfflss</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 3300 331 3460 484; x_wconf 61' lang='lat' dir='ltr'><strong>tf}</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 3559 440 3568 469; x_wconf 35' lang='grc'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1699 517 3287 594">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1699 517 3287 594">
+     <span class='ocr_line' id='line_1_2' title="bbox 1699 517 3287 594; baseline 0.006 0"><span class='ocrx_word' id='word_1_7' title='bbox 1699 517 2424 594; x_wconf 54' lang='grc' dir='ltr'><strong>ρπβ-ὑπο</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2551 541 2641 594; x_wconf 69' lang='lat' dir='ltr'>v</span> <span class='ocrx_word' id='word_1_9' title='bbox 2956 528 3287 580; x_wconf 66' lang='lat'><strong>·‘&#39;·⁸·²</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
